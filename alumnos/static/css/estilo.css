@@ -1,0 +1,14 @@
+.circulo{
+    align-items: center;
+    text-align: center;
+    display: block;
+    width: 100px;
+    height: 100px; 
+    border-radius: 100px;
+  }
+
+  .fondo{
+    background-color: black;
+    text-decoration: none;
+    color: white;
+  }
